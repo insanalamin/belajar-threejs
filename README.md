@@ -17,6 +17,8 @@ Dua cara utama untuk dapetin aset 3D di Three.js
 
 ## Penggunaan Three.js di React
 
+Ada empat library utama yang dapat digunakan untuk coding Three.js di React
 - Fiber: Komponen deklaratif untuk membangun program Three.js di React
 - Drei: Beragam fungsi ataupun komponen siap pakai untuk mendukung penggunaan Three.js di React
 - Rapier: Physic Engine yang berfungsi untuk mensimulasikan sifat benda di dunia nyata pada program desain 3D
+- gltfjsx: Library untuk kompresi file GLTF di React agar ukurannya jadi sangat kecil
